@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Archivo de pruebas para las clases
+/src/core/TestMain.java
